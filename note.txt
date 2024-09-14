@@ -1,0 +1,4 @@
+set FLASK_APP=face-rec-web-voice-v1.py
+flask run --host=0.0.0.0
+
+D:\A\Car-Mobil-PA-Omni-Wheel
